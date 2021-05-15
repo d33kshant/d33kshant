@@ -27,18 +27,18 @@
 ## Social Links
 
 <a href="https://www.linkedin.com/in/d33kshant/">
-  <img align="center" alt="Deekshant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Deekshant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/d33kshant">
-  <img align="center" alt="Deekshant's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Deekshant's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://github.com/d33kshant">
-  <img align="center" alt="Deekshant's GitHub" width="22px" src="github.png" />
+  <img align="left" alt="Deekshant's GitHub" width="22px" src="github.png" />
 </a>
 </a>
 <a href="https://reddit.com/u/d33kshant">
-  <img align="center" alt="Deekshant's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Deekshant's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://www.instagram.com/d33kshant/">
-  <img align="center" alt="Deekshant's Instagram" width="22px" src="instagram.png" />
+  <img align="left" alt="Deekshant's Instagram" width="22px" src="instagram.png" />
 </a>
