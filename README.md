@@ -2,7 +2,7 @@
 
 ![Header](header.png)
 
-## Weapons
+## Weapons 🔫
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=white&color=002855" alt="Python"/>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/KaliLinux-OS-informational?style=flat&logo=linux&logoColor=white&color=0466c8" alt="Linux"/>
 </p>
 
-## Social Links
+## Social Links 👽
 
 <a href="https://www.linkedin.com/in/d33kshant/">
   <img align="left" alt="Deekshant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
