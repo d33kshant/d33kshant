@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 	<h3>deekshant</h3>
 	<code>He/Him • Student • Full Stack Developer</code> <br /><br />
 	student from india doing some web development and stuffs.
