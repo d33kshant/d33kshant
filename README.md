@@ -1,9 +1,10 @@
-<div align="left">
+<div align="center">
+	<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 	<h3>deekshant</h3>
 	<code>He/Him • Student • Full Stack Developer</code> <br /><br />
-	student from india doing some web development and stuffs.
+	student from india doing web development stuffs
 	<br />
-	mostly with react & javascript related tech stack.
+	with react & javascript related technology.
 	<br />
 	<br />
 	<a href="http://d33kshant.me">
