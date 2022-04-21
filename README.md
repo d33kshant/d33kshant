@@ -1,8 +1,9 @@
 <div align="center">
 	<h3>deekshant</h3>
-	He/Him from india doing some web development stuffs.
+	<code>He/Him • Student • Full Stack Developer</code> <br /><br />
+	student from india doing some web development and stuffs.
 	<br />
-	mostly with react and mern stack.
+	mostly with react & javascript related tech stack.
 	<br />
 	<br />
 	<a href="http://d33kshant.me">
