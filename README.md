@@ -4,7 +4,7 @@
 	<code>He/Him • Student • Full Stack Developer</code> <br /><br />
 	student from india doing web development stuffs
 	<br />
-	with react & javascript related technology.
+	with react & javascript related technologies.
 	<br />
 	<br />
 	<a href="http://d33kshant.me">
