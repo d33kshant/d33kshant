@@ -18,5 +18,5 @@
 	</a>
 	<br />
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=d33kshant&show_icons=true&theme=github_dark" alt="d33kshant's github stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=d33kshant&count_private=true&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&show_icons=true&theme=github_dark" alt="d33kshant's github stats" />
 </div>
