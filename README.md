@@ -16,4 +16,7 @@
 	<a href="mailto:d33kshant@gmail.com">
 		<img height="20" src="https://img.shields.io/badge/Contact-238636?style=flat&logo=gmail&logoColor=white" alt="Twitter Badge"/>
 	</a>
+	<br />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=d33kshant&show_icons=true&theme=github_dark" alt="d33kshant's github stats" />
 </div>
