@@ -20,5 +20,5 @@
 	<br />
 	<img height="165px" src="https://github-readme-stats.vercel.app/api?username=d33kshant&count_private=true&border_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&theme=github_dark" alt="d33kshant's github stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d33kshant&layout=compact&border_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&theme=github_dark" />
-	<img width="800px" src="https://activity-graph.herokuapp.com/graph?username=d33kshant&bg_color=0d1117&color=c8d0d9&line=555&point=58a6ff&area=true&hide_border=true&radius=8" />
+	<img width="800px" src="https://activity-graph.herokuapp.com/graph?username=d33kshant&bg_color=0d1117&color=c8d0d9&line=555&point=58a6ff&area=true&hide_border=true&radius=4.5" />
 </div>
